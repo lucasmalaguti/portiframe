@@ -1,0 +1,18 @@
+#bloco-1{
+    background-color: brown;
+    background-image: url(img/DL.png);
+    background-position-x: center;
+    background-size: cover;
+    opacity: 0.9;
+    background-attachment: fixed;
+}
+
+
+#poster{
+    height: 200px;
+    
+}
+
+#bloco-1 .card-text{
+    padding: 8px 12px;
+}
